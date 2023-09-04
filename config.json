@@ -1,0 +1,20 @@
+{
+    "params": {
+        "localServer": "True",
+        "localURI": "mysql+mysqldb://root:@localhost/ideaspace",
+        "productionURI": "mysql+mysqldb://root:@localhost/ideaspace",
+        "username" : "zeeshan",
+        "password" : "zeeshan",
+        "websiteName": "IdeaSpace",
+        "tagLine": "Unleashing the Power of Knowledge",
+        "logo" : "logo.png",
+        "aboutMe": "Welcome to my world of curiosity and exploration!<br><br>I'm a lifelong learner, a seeker of knowledge, and an advocate for intellectual growth. My name is Zeeshan Haque, and I'm delighted to have you join me on this journey.<br><br>From a young age, I've had an insatiable thirst for understanding the world around me. Whether it's delving into the depths of philosophical concepts or unraveling the mysteries of science, I find joy in the pursuit of wisdom and enlightenment. Through my blog, I aim to share my insights, musings, and discoveries with fellow intellectual adventurers like you.<br><br>As an avid reader, my shelves are filled with books that have expanded my horizons and ignited my imagination. I believe in the power of words to shape perspectives, challenge conventional thinking, and inspire change. Through thought-provoking articles, captivating stories, and profound reflections, I hope to create a space where we can engage in intellectual conversations that stimulate our minds and ignite our passion for learning.<br><br>But it's not all serious business! Alongside the realms of intellectual exploration, I also have a deep appreciation for the beauty of life. I find solace in nature, indulge in the arts, and embrace the joys of travel. These experiences weave themselves into the tapestry of my writing, adding depth and richness to the thoughts I share.<br><br>I invite you to join me on this voyage of intellectual discovery and personal growth. Let's embark on a shared expedition to expand our minds, challenge our assumptions, and uncover the profound truths that shape our existence. Together, we can navigate the seas of knowledge, guided by curiosity, fueled by passion, and inspired by the wonders of the world.<br><br>Thank you for being a part of this intellectual odyssey. I look forward to our shared explorations and the meaningful connections that will undoubtedly blossom along the way.<br><br>With intellectual fervor,<br>Zeeshan Haque",
+        "instaURL": "https://www.instagram.com/zeeshanhaq._/",
+        "fbURL": "https://www.facebook.com/",
+        "ghURL": "https://github.com/zeeshanhaque",
+        "emailUser": "zeeshanhaque00077@gmail.com",
+        "emailPassword": "nnahlfoykszmkajt",
+        "noOfPosts" : 4,
+        "imgLocation" : "C:\\Coding\\Python\\Flask\\IdeaSpace\\static\\assets\\img\\"
+    }
+}
